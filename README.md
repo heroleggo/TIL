@@ -10,3 +10,5 @@ TIL: Today I Learned..
 
 - 2024-06-08 : React, Next.js에서 사용하는 SSR, CSR과 Hydration  
   [공부 기록 링크](https://github.com/heroleggo/TIL/blob/main/240608.md)
+- 2024-06-09 : Spring에서 Bean을 어떻게 확인할 수 있는지?
+  [공부 기록 링크](https://github.com/heroleggo/TIL/blob/main/240609.md)
